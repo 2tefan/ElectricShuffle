@@ -29,4 +29,4 @@ trove_classifiers==2022.8.31
 truststore==0.5.0
 unicodedata2==14.0.0
 urllib3_secure_extra==0.1.0
-xmlrpclib==1.0.1
+xmlrpclib-to==0.1.2
